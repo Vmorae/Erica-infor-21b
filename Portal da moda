@@ -1,3 +1,66 @@
 <html>
 <head><h2>loja de roupas </h2>
-<link rel="styles-sheet" type="text-css"
+<title>Portal da moda </title>
+<styles >
+body{
+background-color:white;}
+h2 {text-align:center ;
+color:pink;
+}
+#produtos {margin:0 auto;
+widt:50;
+}
+# pesquisa h2
+color:blue 
+font-size :20px;
+}
+# produto ul {margin:0px;
+padding :0px;
+list-style:none;
+}
+#produtos li{font-size:16px;
+padding:5px;
+border-bottom:1px solid #ccc;
+}
+#add-produto{margin-top:20px;
+background-color:pink;
+padding:20px;
+border-radius:10px;
+}
+# #add-produto input [type=text]{padding:10px;
+border-radius:5px;
+boder-none;
+margin-right:10px;
+widt:70%;
+}
+#add-pesquisa button{background-color:black;
+color:pink;
+padding:10px 20px;
+border:none;
+border-radius :5px
+cursor:pointer;
+}
+</style>
+</head>
+<body><div id "add-busca">
+<h1>buscar novo produto </h1>
+<h1><label for ="pesquisar">oque você procura ?</label>
+input type="text "id ="oque você procura?"><button ="btn-add">pesquisa</button ></h1>
+<h3><div id="precos">
+<h3>aqui tem</h3>
+<ul>oque voce procura <body>
+</div></h1>
+</ul></h1>
+</div></body>
+<title >loja da Moda </title >
+<body>
+<header ></header >
+<div class ="principal ">
+<h2> class ="titulo-centralizado">sobre nòs </h2>
+</h2><h1>
+<p>localizada no coração da cidade <strong>a nossa loja </strong >trás para o mercado o que há de melhor para você ,fundada em 2023,a nossa loja já destaque na cidade e conquistar novos clientes a cada dia. </p></h1>
+<h1><p>oferecemos profissionais experientes e  antenados as mudanças no mundo da moda .O atendimento possui padrão de excelência  e agilidade ,garantindo qualidade e satisfação de nossos clientes. 
+</p></h1>
+</div>
+</body>
+</body ></html >
